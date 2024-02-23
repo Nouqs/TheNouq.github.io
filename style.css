@@ -43,7 +43,7 @@ header {
     
     button {
         background-color: #fff; /* Couleur de fond du bouton */
-        color: #2b45b9; /* Couleur du texte du bouton */
+        color: #2b45b9; 
         padding: 10px 20px; /* Ajuste la taille du bouton selon tes besoins */
         border: none;
         border-radius: 5px;
@@ -53,50 +53,50 @@ header {
     
     button:hover {
         background-color: #ad7ed9; /* Couleur de fond au survol du bouton */
-        color: white; /* Couleur du texte au survol du bouton */
+        color: white; 
     }
 
     #about h2 {
         font-weight: bold; /* Pour mettre le titre en gras */
         text-transform: uppercase; /* Pour mettre le titre en majuscules */
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-family: Arial, sans-serif; /* Pour utiliser la police */
         color: #ad7ed9;
     }
     
     #about p {
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
-        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        font-family: Arial, sans-serif; 
+        font-weight: normal; 
         text-align: justify, center;
     }
     
     #skills h2 {
-        font-weight: bold; /* Pour mettre le titre en gras */
-        text-transform: uppercase; /* Pour mettre le titre en majuscules */
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: bold; 
+        text-transform: uppercase; 
+        font-family: Arial, sans-serif; 
         color: #ad7ed9;
     }
     #skills p {
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
-        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        font-family: Arial, sans-serif; 
+        font-weight: normal; 
         text-align: justify, center;
     }
 
     #projects h2 {
-        font-weight: bold; /* Pour mettre le titre en gras */
-        text-transform: uppercase; /* Pour mettre le titre en majuscules */
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: bold; 
+        text-transform: uppercase; 
+        font-family: Arial, sans-serif; 
         color: #ad7ed9;
     }
     #projects p {
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
-        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        font-family: Arial, sans-serif; 
+        font-weight: normal; 
         text-align: justify, center;
     }
 
     #follow h2 {
-        font-weight: bold; /* Pour mettre le titre en gras */
-        text-transform: uppercase; /* Pour mettre le titre en majuscules */
-        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: bold; 
+        text-transform: uppercase; 
+        font-family: Arial, sans-serif; 
         color: #ad7ed9;
     }
     
