@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin:  30px;
+    padding: 30spx;
+    background-color: #eadde3;
+}
+
+.container {
+    max-width: 700px;
+    margin: 20 auto;
+    padding: 20px;
+    box-shadow: 0 15px 35px rgb(29, 29, 68); 
+}
+
+header {
+        background-color: #2b45b9;
+        color: white;
+        max-width: 700px;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        box-shadow: 0 15px 35px rgb(29, 29, 68); 
+
+    }
+    
+    .profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .profile img {
+        width: 120px; 
+        height: 120px; 
+        border-radius: 150%; 
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    button {
+        background-color: #fff; /* Couleur de fond du bouton */
+        color: #2b45b9; /* Couleur du texte du bouton */
+        padding: 10px 20px; /* Ajuste la taille du bouton selon tes besoins */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    
+    button:hover {
+        background-color: #ad7ed9; /* Couleur de fond au survol du bouton */
+        color: white; /* Couleur du texte au survol du bouton */
+    }
+
+    #about h2 {
+        font-weight: bold; /* Pour mettre le titre en gras */
+        text-transform: uppercase; /* Pour mettre le titre en majuscules */
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        color: #ad7ed9;
+    }
+    
+    #about p {
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        text-align: justify, center;
+    }
+    
+    #skills h2 {
+        font-weight: bold; /* Pour mettre le titre en gras */
+        text-transform: uppercase; /* Pour mettre le titre en majuscules */
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        color: #ad7ed9;
+    }
+    #skills p {
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        text-align: justify, center;
+    }
+
+    #projects h2 {
+        font-weight: bold; /* Pour mettre le titre en gras */
+        text-transform: uppercase; /* Pour mettre le titre en majuscules */
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        color: #ad7ed9;
+    }
+    #projects p {
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        font-weight: normal; /* Pour assurer que le texte n'est pas en gras */
+        text-align: justify, center;
+    }
+
+    #follow h2 {
+        font-weight: bold; /* Pour mettre le titre en gras */
+        text-transform: uppercase; /* Pour mettre le titre en majuscules */
+        font-family: Arial, sans-serif; /* Pour utiliser la police Arial */
+        color: #ad7ed9;
+    }
+    
+
+    section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    text-justify: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 15px;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.icon {
+    font-size: 40px;
+    margin-right: 10px;
+    color: #2b45b9; /* Couleur des icônes, ajuste selon tes préférences */
+}
+.icon:hover{
+    color: #ad7ed9;
+}
+footer p {
+    font-size: 1em;
+}
+
